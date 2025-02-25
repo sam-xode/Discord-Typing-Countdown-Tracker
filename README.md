@@ -99,10 +99,6 @@ For advanced users who want to modify the script:
 - **CSS Styling**: Customize the appearance by editing the `GM_addStyle` section
 - **Sound Resources**: Change the notification sounds by replacing the URL resources
 
-## Developers
-
-Created by **<SamXode/>**
-
 ## License
 
 This project is available under the MIT License. Feel free to modify and distribute as needed.
