@@ -17,7 +17,7 @@ A Tampermonkey userscript that tracks typing with a countdown timer specifically
 
 ## Screenshots
 
-*Note: Add screenshots of the userscript in action here*
+![Screenshot](https://arrow-wing-897.notion.site/image/attachment%3A2af1a36e-36b7-4d08-9ac7-8aba83d5ad87%3Aimage.png?table=block&id=1a5c089c-b470-8085-bc67-fd75decc1e6f&spaceId=12427a77-ab6b-4a2b-92db-1330e9dfdf1b&width=1420&userId=&cache=v2)
 
 ## Installation
 
@@ -101,7 +101,7 @@ For advanced users who want to modify the script:
 
 ## Developers
 
-Created by **SamXode**
+Created by **<SamXode/>**
 
 ## License
 
@@ -110,6 +110,17 @@ This project is available under the MIT License. Feel free to modify and distrib
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 👤 Join Our Telegram Group!
+Join our Telegram group for more bot scripts and discussions:
+➡️ [Join Telegram Group](https://t.me/sam_xode)
+
+## 💌 Contact
+For questions or contributions, reach out via:
+- **GitHub**: [sam-xode](https://github.com/sam-xode)
+- **Twitter**: [@Sam_xode](https://twitter.com/Sam_xode)
+- **Telegram**: [sam_xode](https://t.me/sam_xode)
+
 
 ## Changelog
 
